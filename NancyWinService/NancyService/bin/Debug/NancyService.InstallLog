@@ -1,0 +1,68 @@
+﻿Installing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe assembly.
+Committing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe assembly.
+Committing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+Rolling back assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+Uninstalling assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+Removing EventLog source Nancy Test Service.
+Warning: The source Nancy Test Service is not registered on the local machine.
+Service Nancy Test Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+Installing service Nancy Test Service...
+Service Nancy Test Service has been successfully installed.
+Creating EventLog source Nancy Test Service in log Application...
+Committing assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+Uninstalling assembly 'C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.InstallLog
+   assemblypath = C:\Users\Allen\Desktop\NancyFX\NancyWinService\NancyService\bin\Debug\NancyService.exe
+Removing EventLog source Nancy Test Service.
+Service Nancy Test Service is being removed from the system...
+Service Nancy Test Service was successfully removed from the system.
